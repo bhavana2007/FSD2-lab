@@ -1,0 +1,11 @@
+{
+  "name": "mongoose-student",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongoose": "^8.10.0"
+  }
+}
